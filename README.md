@@ -16,4 +16,6 @@ Pequeno Sistema de Identificação em IOT.
 
 2. No segundo fluxo, o nod-red coloca o valor da TAG no dashboard.
 
+Usei como ferramenta o node-red e o IDE Arduino. Como biblioteca, usei o MFRC522 e o Arduino Json
+
 
