@@ -80,7 +80,7 @@ void loop() {
 
 
  //formato de escrita do json
-  json["tagid"] = strID;
+  json["FazSol"] = strID;
 
 
 
